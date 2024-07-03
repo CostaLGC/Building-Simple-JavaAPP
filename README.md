@@ -4,7 +4,9 @@ Este projeto é um exemplo simples de uma aplicação Java que consulta um banco
 ## Como Usar  
 **Pré-requisitos**  
 - Docker instalado e configurado no ambiente de desenvolvimento  
-- Maven instalado para compilar e executar o projeto Java  
+- Maven instalado para compilar e executar o projeto Java
+
+
 **Configuração**  
 Clone este repositório:  
 
