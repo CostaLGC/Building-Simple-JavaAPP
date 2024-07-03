@@ -8,7 +8,7 @@ Este projeto é um exemplo simples de uma aplicação Java que consulta um banco
 
 
 **Configuração**  
-Clone este repositório:  
+- Clone este repositório:  
 
 
 ```git clone https://github.com/seu-usuario/java-mysql-docker-example.git  ```  
