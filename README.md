@@ -1,6 +1,8 @@
 ### Java MySQL Docker Example
 Este projeto é um exemplo simples de uma aplicação Java que consulta um banco de dados MySQL em um contêiner Docker. Foi desenvolvido como parte do projeto voluntário de mentoria da Escola da Nuvem.
 
+O objetivo deste tutorial é entender a construção de aplicações em Java para um projeto de mentoria de estudantes. Não foram cumpridos requisitos de segurança. Este projeto não é adequado para ambientes de produção ou onde a segurança é uma preocupação primária.
+
 ## Como Usar  
 **Pré-requisitos**  
 - Docker instalado e configurado no ambiente de desenvolvimento (Em breve será disponibilidazado um manfiesto Terraform p/ AWS provisionando esta infraestrutura)  
