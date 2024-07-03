@@ -11,16 +11,21 @@ Este projeto é um exemplo simples de uma aplicação Java que consulta um banco
 - Clone este repositório:  
 
 
-```git clone https://github.com/seu-usuario/java-mysql-docker-example.git  ```  
-```cd java-mysql-docker-example  ```  
+```
+git clone https://github.com/seu-usuario/java-mysql-docker-example.git  
+cd java-mysql-docker-example
+```  
 
 **Compile o projeto:**  
 
-```mvn compile```
-
+```
+mvn compile
+```
 **Execute o projeto:**
 
-```mvn exec:java -Dexec.mainClass="com.exemplo.MySQLExample"```
+```
+mvn exec:java -Dexec.mainClass="com.exemplo.MySQLExample"  
+```
 
 **Detalhes do Projeto**  
 
