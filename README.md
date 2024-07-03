@@ -3,7 +3,7 @@ Este projeto é um exemplo simples de uma aplicação Java que consulta um banco
 
 ## Como Usar  
 **Pré-requisitos**  
-- Docker instalado e configurado no ambiente de desenvolvimento  
+- Docker instalado e configurado no ambiente de desenvolvimento (Em breve será disponibilidazado um manfiesto Terraform p/ AWS provisionando esta infraestrutura)  
 - Maven instalado para compilar e executar o projeto Java
 
 
