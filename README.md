@@ -23,8 +23,8 @@ Este projeto é um exemplo simples de uma aplicação Java que consulta um banco
 ```mvn exec:java -Dexec.mainClass="com.exemplo.MySQLExample"```
 
 **Detalhes do Projeto**  
-**MySQLExample.java:** Contém o código-fonte Java que realiza a conexão com o banco de dados MySQL dentro do contêiner Docker.  
-**pom.xml:** Arquivo de configuração do Maven que gerencia as dependências do projeto.  
+MySQLExample.java: Contém o código-fonte Java que realiza a conexão com o banco de dados MySQL dentro do contêiner Docker.  
+pom.xml: Arquivo de configuração do Maven que gerencia as dependências do projeto.  
 
 
 
