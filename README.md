@@ -19,6 +19,7 @@ cd java-mysql-docker-example
 **Compile o projeto:**  
 
 ```
+cd java
 mvn compile
 ```
 **Execute o projeto:**
